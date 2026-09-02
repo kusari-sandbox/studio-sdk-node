@@ -53,15 +53,33 @@
     "clear-street-studio-sdk": "bin/cli"
   },
   "overrides": {
-    "minimatch": "^9.0.5"
+    "minimatch": "^9.0.5",
+    "@babel/core": "7.29.6",
+    "ajv": "^6.15.0",
+    "browserslist": "^4.28.8",
+    "diff": "^4.0.4",
+    "flatted": "^3.4.4",
+    "picomatch": "^2.3.2"
   },
   "pnpm": {
     "overrides": {
-      "minimatch": "^9.0.5"
+      "minimatch": "^9.0.5",
+      "@babel/core": "7.29.6",
+      "ajv": "^6.15.0",
+      "browserslist": "^4.28.8",
+      "diff": "^4.0.4",
+      "flatted": "^3.4.4",
+      "picomatch": "^2.3.2"
     }
   },
   "resolutions": {
-    "minimatch": "^9.0.5"
+    "minimatch": "^9.0.5",
+    "@babel/core": "7.29.6",
+    "ajv": "^6.15.0",
+    "browserslist": "^4.28.8",
+    "diff": "^4.0.4",
+    "flatted": "^3.4.4",
+    "picomatch": "^2.3.2"
   },
   "exports": {
     ".": {
